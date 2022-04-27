@@ -1,0 +1,11 @@
+- name: EEG data analysis
+  percentage: 90
+  color: danger
+
+- name: Linguistic analysis
+  percentage: 80
+  color:
+
+- name: Discourse analysis
+  percentage: 80
+  color:
