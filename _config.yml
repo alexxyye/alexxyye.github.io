@@ -67,7 +67,7 @@ defaults:
   - scope:
       path: ""
       type: "projects"
-    values:
+    values: false
       layout: "page"
   - scope:                                              # For Documentation Only
       path: ""                                          # For Documentation Only
