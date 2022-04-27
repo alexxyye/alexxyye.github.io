@@ -68,7 +68,7 @@ defaults:
       path: ""
       type: "projects"
     values: false
-      layout: "page"
+      #layout: "page"
   - scope:                                              # For Documentation Only
       path: ""                                          # For Documentation Only
       type: "elements"                                  # For Documentation Only
