@@ -1,7 +1,15 @@
-- name: Adobe Photoshop
+- name: Adobe Premiere
   percentage: 95
+  color: success
+
+- name: Adobe Photoshop
+  percentage: 80
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
-  color: success
+- name: Garageband
+  percentage: 60
+  color: info
+
+- name: Final Cut Pro & Sony Vegas
+  percentage: 50
+  color: secondary

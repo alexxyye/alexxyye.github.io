@@ -1,11 +1,19 @@
-- name: EEG data analysis
+- name: Curry 7
   percentage: 90
   color: danger
 
-- name: Linguistic analysis
+- name: Praat
+  percentage: 90
+  color: danger
+
+- name: EEGlab
   percentage: 80
+  color: 
+
+- name: BESA
+  percentage: 60
   color:
 
-- name: Discourse analysis
-  percentage: 80
+- name: Analyzer 2
+  percentage: 50
   color:

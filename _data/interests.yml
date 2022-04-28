@@ -1,0 +1,15 @@
+- name: Psychology
+  percentage: 90
+  color: danger
+
+- name: Linguistics
+  percentage: 80
+  color: success
+
+- name: Philosophy
+  percentage: 80
+  color: info
+
+- name: Life Hack
+  percentage: 80
+  color: danger
