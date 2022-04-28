@@ -1,5 +1,5 @@
 ---
-title: "Hello World" to GitHub Page
+title: Hello World to GitHub Page
 tags: [Coding, journal]
 style: fill
 color: warning
