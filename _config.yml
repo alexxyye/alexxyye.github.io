@@ -17,7 +17,6 @@ plugins:
 nav_exclude:                                            # The following paths are excluded from navbar
   - pages/tags.html
   - pages/404.html
-  - pages/projects.html
   - pages/index.md
   - documentation/partials/**                       # For Documentation Only    
 
@@ -42,7 +41,7 @@ permalink: /blog/:title
 ### Collections ###
 collections:
   projects:
-    output: false
+    output: true
     permalink: /projects/:name
   elements:                                             # For Documentation Only
     output: true                                        # For Documentation Only
