@@ -7,9 +7,9 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave: and I like to know about how our :brain:  works! I'm interested in studying psychology and language using neuroimaging methods such as EEG and fMRI. My major focus of study is language perception and comprehension (listening and reading especially). Still, I'm also interested in visual and auditory processing in general.
+Hi I am **{{ site.author.name }}** :wave: and I like to know about how our brain works! I'm interested in studying psychology and language using neuroimaging methods such as EEG and fMRI. My major focus of study is language perception and comprehension (listening and reading especially). Still, I'm also interested in visual and auditory processing in general.
 
-In my leisure time I enjoy cooking, hiking, swimming and K-pop:laughing:
+In my leisure time I enjoy cooking, hiking, swimming and K-pop :laughing:
 
 If you'd like to know more about me, feel free to see my [CV](https://github.com/alexxyye/alexxyye.github.io/blob/main/docs/CV221011.pdf) here :smile:.
 

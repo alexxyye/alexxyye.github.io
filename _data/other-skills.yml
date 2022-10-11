@@ -1,15 +1,15 @@
-- name: Adobe Premiere
+- name: Adobe Creative Toolkit (Photoshop/Premiere/After Effect)
   percentage: 95
   color: success
 
-- name: Adobe Photoshop
+- name: Music Creation (Garageband)
   percentage: 80
   color: info
 
-- name: Garageband
+- name: Speech Analysis (Praat/Audacity/CLAN)
   percentage: 60
   color: info
 
-- name: Final Cut Pro & Sony Vegas
+- name: 3D Modeling (C4D/Unity/MMD)
   percentage: 50
-  color: secondary
+  color: info

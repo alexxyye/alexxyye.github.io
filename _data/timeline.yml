@@ -1,8 +1,25 @@
+
+- title: Research Assistant, BLC Lab, The Hong Kong Polytechnic University
+  from: 2022
+  to: present
+  supervisor: Prof. Andrew Ping Li
+  description: I analyzed how the brain learn new words in Virtual Reality using a combination of 
+              EEG and VR equipments. I use EEGLAB and FieldTrip pipeline for the majority of the 
+              analyses and designed the VR settings with my colleagues. Along with traditional EEG 
+              signal analyses we also involve deep learning models to further analyze our data.
+
+- title: NeuroMatch Academy - Computational Neuroscience Summer Course
+  from: 2022.07
+  to: 2022.08
+  description: I learned how to build cmputational models of biological structures in our brain 
+              with maching learning and deep learning. Along with methods to analyze fMRI data using 
+              Python. For details please see "NMA project" in the project column of my personal website :)
+
 - title: Master Student, Psychology, The Chinese University of Hong Kong
   from: 2021
-  to: present
+  to: 2022
   supervisor: Prof. Urs Maurer
-  description: My graduation thesis is about the N1 print tuning effect. Supervised by Urs Maurer.
+  description: My graduation thesis is a meta-analysis about the N1 print tuning effect in EEG. Supervised by Urs Maurer.
 
 
 - title: Research Assistant, Chinese and Bilingual Studies, The Hong Kong Polytechnic University

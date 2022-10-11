@@ -1,19 +1,19 @@
-- name: Curry 7
+- name: Neuroimaging Experiment/Analysis (EEG/fMRI)
   percentage: 90
   color: danger
 
-- name: Praat
+- name: Data Analysis (Python/R/Matlab)
   percentage: 90
   color: danger
 
-- name: EEGlab
+- name: Virtual Reality (C#/Unity)
   percentage: 80
   color: 
 
-- name: BESA
+- name: Machine/Deep Learnng (Sklearn/PyTorch)
   percentage: 60
   color:
 
-- name: Analyzer 2
-  percentage: 50
+- name: Website Building (HTML/CSS/JavaScript)
+  percentage: 60
   color:
