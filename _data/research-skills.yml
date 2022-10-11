@@ -1,9 +1,9 @@
 - name: Neuroimaging Experiment/Analysis (EEG/fMRI)
-  percentage: 90
+  percentage: 95
   color: danger
 
 - name: Data Analysis (Python/R/Matlab)
-  percentage: 90
+  percentage: 95
   color: danger
 
 - name: Virtual Reality (C#/Unity)
