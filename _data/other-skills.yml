@@ -1,13 +1,14 @@
+
+- name: Speech Analysis (Praat/Audacity/CLAN)
+  percentage: 100
+  color: success
+
 - name: Adobe Creative Toolkit (Photoshop/Premiere/After Effect)
   percentage: 95
   color: success
 
 - name: Music Creation (Garageband)
   percentage: 80
-  color: info
-
-- name: Speech Analysis (Praat/Audacity/CLAN)
-  percentage: 60
   color: info
 
 - name: 3D Modeling (C4D/Unity/MMD)
