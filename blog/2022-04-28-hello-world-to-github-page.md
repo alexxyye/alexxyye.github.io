@@ -12,6 +12,4 @@ That is wonderful!
 
 So I learnt about how to use Ruby and Jekyll to host a website, and tried revising several templates, and here it is! My personal website.
 
-The template I'm using right now is [portfolYOU](https://github.com/YoussefRaafatNasry/portfolYOU). I think it's pretty simple and beutiful at the same time so I chose it. Many thanks to the author!
-
 Hello world!
