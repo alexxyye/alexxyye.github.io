@@ -18,13 +18,13 @@ If you'd like to know more about me, feel free to see my [CV](https://github.com
 
 ## Education
 
-2021-2022 Chinese University of Hong Kong, MA, Psychology. \
+### 2021-2022   Chinese University of Hong Kong, MA, Psychology. 
     - Thesis: “A Meta-Analysis on the N1 Print Tuning Effect in Early and Late N1 Time Window” \
     - Supervisor: Dr. Urs Maurer
 
-2019-2020 The Chinese University of Hong Kong, MA, Linguistics. 
+### 2019-2020   The Chinese University of Hong Kong, MA, Linguistics. 
 
-2015-2019 Beijing Sport University, BA, English. \
+### 2015-2019   Beijing Sport University, BA, English. 
     - Thesis: “A Corpus-based Study on Gender Awareness in Sports News: Taking China Daily and The Guardian as Examples” \
     - Supervisor: Dr. Nancy Yumei Song
 
