@@ -18,16 +18,48 @@ If you'd like to know more about me, feel free to see my [CV](https://github.com
 
 ## Education
 
-##### 2021-2022   **Chinese University of Hong Kong, MA, Psychology.** #####
+##### 2021-2022   **Chinese University of Hong Kong, MA, Psychology.** 
 Thesis: “A Meta-Analysis on the N1 Print Tuning Effect in Early and Late N1 Time Window”\
 Supervisor: Dr. Urs Maurer
 <br>
 
-##### 2019-2020   **The Chinese University of Hong Kong, MA, Linguistics.** #####
-##### 2015-2019   **Beijing Sport University, BA, English.** #####
+##### 2019-2020   **The Chinese University of Hong Kong, MA, Linguistics.** 
+##### 2015-2019   **Beijing Sport University, BA, English.** 
 Thesis: “A Corpus-based Study on Gender Awareness in Sports News: Taking China Daily and The Guardian as Examples”\
 Supervisor: Dr. Nancy Yumei Song
 <br>
+
+## Experience
+
+##### **Research Associate**, BLC Lab, The Hong Kong Polytechnic University
+2023-present
+supervisor: Dr. Andrew Ping Li
+description: 
+<br>
+
+##### **Research Assistant**, BLC Lab, The Hong Kong Polytechnic University
+2022-2023
+supervisor: Dr. Andrew Ping Li
+description: I analyzed how the brain learn new words in Virtual Reality using a combination of EEG and VR equipments. I use EEGLAB and FieldTrip pipeline for the majority of the analyses and designed the VR settings with my colleagues. Along with traditional EEG signal analyses we also involve deep learning models to further analyze our data.
+<br>
+
+##### NeuroMatch Academy - **Computational Neuroscience Summer Course**
+2022.07-2022.08
+description: I learned how to build cmputational models of biological structures in our brain with machine learning and deep learning. Along with methods to analyze fMRI data using Python. For details please see "NMA project" in the "project" in my personal website.
+<br>
+
+##### **Research Assistant**, Chinese and Bilingual Studies, The Hong Kong Polytechnic University
+2021.01-2021.08
+Supervisor: Dr. Caicai Zhang
+Description: EEG data collection and analysis.
+<br>
+
+##### **Research Assistant**, Linguistics, The Chinese University of Hong Kong
+2020.09-2021.01
+Supervisor: Dr. Shuxiang You
+Description: Literature review and information collection.
+<br>
+
 
 ## Research Skills
 
