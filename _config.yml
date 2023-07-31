@@ -23,6 +23,7 @@ navbar-links:
 
 nav_exclude:                                            # The following paths are excluded from navbar
   - pages/tags.html
+  - _posts/**
 #   - pages/404.html
 #   - pages/index.md
 #   - documentation/partials/**                       # For Documentation Only    
@@ -50,6 +51,8 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
+  posts:
+    output: true
   elements:                                             # For Documentation Only
     output: true                                        # For Documentation Only
 
