@@ -19,13 +19,13 @@ If you'd like to know more about me, feel free to see my [CV](https://github.com
 ## Education
 
 2021-2022 Chinese University of Hong Kong, MA, Psychology. \
-    - Thesis: “A Meta-Analysis on the N1 Print Tuning Effect in Early and Late N1 Time Window”
+    - Thesis: “A Meta-Analysis on the N1 Print Tuning Effect in Early and Late N1 Time Window” \
     - Supervisor: Dr. Urs Maurer
 
-2019-2020 The Chinese University of Hong Kong, MA, Linguistics. \
+2019-2020 The Chinese University of Hong Kong, MA, Linguistics. 
 
 2015-2019 Beijing Sport University, BA, English. \
-    - Thesis: “A Corpus-based Study on Gender Awareness in Sports News: Taking China Daily and The Guardian as Examples”
+    - Thesis: “A Corpus-based Study on Gender Awareness in Sports News: Taking China Daily and The Guardian as Examples” \
     - Supervisor: Dr. Nancy Yumei Song
 
 ## Research Skills
@@ -36,4 +36,4 @@ Virtual Reality (C#/Unity) \
 Machine/Deep Learnng (Sklearn/PyTorch) \
 Website Building (HTML/CSS/JavaScript) \
 Speech Analysis (Praat/Audacity/CLAN) \
-Adobe Creative Toolkit (Photoshop/Premiere/After Effect) \
+Adobe Creative Toolkit (Photoshop/Premiere/After Effect) 
