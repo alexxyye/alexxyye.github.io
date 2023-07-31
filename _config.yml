@@ -16,7 +16,7 @@ plugins:
 ### Navbar Settings ###
 navbar-links:
   Home: "/"
-  Posts: "pages/blog.html"
+  #Posts: "pages/blog.html"
   Projects: "pages/projects.html"
   Researchs: "pages/research.md"
   About: "pages/about.md"
