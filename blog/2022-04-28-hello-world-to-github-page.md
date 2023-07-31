@@ -1,8 +1,6 @@
 ---
 title: Hello World to GitHub Page
 tags: [Coding, Journal]
-style: fill
-color: warning
 description: Alex's first try of GitHub Page to build a personal website.
 ---
 
