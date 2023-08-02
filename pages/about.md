@@ -2,25 +2,71 @@
 layout: page
 title: About
 permalink: /about/
-weight: 3
+weight: 1
 ---
 
-# **About Me**
+## About Me
 
-Hi I am **{{ site.author.name }}** :wave: and I like to know about how our brain works! I'm working at *BLC lab* in Hong Kong PolyU right now and you can visit [my page](https://blclab.org/xinyi-ye/). 
+Hi I am **{{ site.author.name }}**. Currently, I'm a **Research Associate** working at *BLC lab* in Hong Kong PolyU and you can visit [my page](https://blclab.org/xinyi-ye/). 
 
 I'm interested in studying **psychology** and **language** using neuroimaging methods such as EEG and fMRI. My major focus of study is language perception and comprehension (listening and reading especially). Still, I'm also interested in visual and auditory processing in general. I also like to use computational models to analyze data.
 
-In my leisure time I enjoy cooking, hiking, swimming and K-pop :laughing:
+In my leisure time I enjoy cooking, hiking, swimming and K-pop.
 
-If you'd like to know more about me, feel free to see my [CV](https://github.com/alexxyye/alexxyye.github.io/blob/main/docs/CV221014.pdf) here :smile:.
+If you'd like to know more about me, feel free to see my [CV](https://github.com/alexxyye/alexxyye.github.io/blob/main/docs/CV221014.pdf) here.
 
 
-<div class="row">
-{% include about/skills.html title="Research Skills" source=site.data.research-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
-</div>
+## Education
 
-<div class="row">
-{% include about/timeline.html %}
-</div>
+##### 2021-2022   **Chinese University of Hong Kong, MA, Psychology.** 
+Thesis: “A Meta-Analysis on the N1 Print Tuning Effect in Early and Late N1 Time Window”\
+Supervisor: Dr. Urs Maurer
+<br>
+
+##### 2019-2020   **The Chinese University of Hong Kong, MA, Linguistics.** 
+##### 2015-2019   **Beijing Sport University, BA, English.** 
+Thesis: “A Corpus-based Study on Gender Awareness in Sports News: Taking China Daily and The Guardian as Examples”\
+Supervisor: Dr. Nancy Yumei Song
+<br>
+
+## Experience
+
+##### **Research Associate**, BLC Lab, The Hong Kong Polytechnic University
+2023-present
+supervisor: Dr. Andrew Ping Li
+description: 
+<br>
+
+##### **Research Assistant**, BLC Lab, The Hong Kong Polytechnic University
+2022-2023
+supervisor: Dr. Andrew Ping Li
+description: I analyzed how the brain learn new words in Virtual Reality using a combination of EEG and VR equipments. I use EEGLAB and FieldTrip pipeline for the majority of the analyses and designed the VR settings with my colleagues. Along with traditional EEG signal analyses we also involve deep learning models to further analyze our data.
+<br>
+
+##### NeuroMatch Academy - **Computational Neuroscience Summer Course**
+2022.07-2022.08
+description: I learned how to build cmputational models of biological structures in our brain with machine learning and deep learning. Along with methods to analyze fMRI data using Python. For details please see "NMA project" in the "project" in my personal website.
+<br>
+
+##### **Research Assistant**, Chinese and Bilingual Studies, The Hong Kong Polytechnic University
+2021.01-2021.08
+Supervisor: Dr. Caicai Zhang
+Description: EEG data collection and analysis.
+<br>
+
+##### **Research Assistant**, Linguistics, The Chinese University of Hong Kong
+2020.09-2021.01
+Supervisor: Dr. Shuxiang You
+Description: Literature review and information collection.
+<br>
+
+
+## Research Skills
+
+**Neuroimaging Experiment/Analysis**    (EEG/fMRI) \
+**Data Analysis**   (Python/R/Matlab) \
+**Virtual Reality**     (C#/Unity) \
+**Machine/Deep Learning**    (Sklearn/PyTorch) \
+**Website Building**    (HTML/CSS/JavaScript) \
+**Speech Analysis**     (Praat/Audacity/CLAN) \
+**Adobe Creative Toolkit**  (Photoshop/Premiere/After Effect) 
