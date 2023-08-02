@@ -58,8 +58,8 @@
 {%- endif -%}
 
 <div class="row justify-content-center my-3 wow animated fadeIn" data-wow-delay=".15s">
-  <div class="col-lg-8">
-    <h2><a href="{{ post_url }}" {%- if post.external_url and site.open_new_tab -%} target="_blank" {%- endif -%}>{{ post.title }}</a></h3>
+  <div class="col-lg-8 mx-auto">
+    <h4><a href="{{ post_url }}" {%- if post.external_url and site.open_new_tab -%} target="_blank" {%- endif -%}>{{ post.title }}</a></h3>
     <p>
       {%- if post.description -%}
       {{ post.description }}
@@ -68,7 +68,7 @@
       {%- endif -%}
     </p>
   </div>
-  <div class="col-lg-4">
+  <div class="col-lg-4 mx-auto">
     <p>
       {{ post.date | date_to_long_string }}
     </p>
