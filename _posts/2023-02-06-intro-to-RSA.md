@@ -1,8 +1,6 @@
 ---
 title: Intro to RSA with R
 tags: [statistics, R]
-style: fill
-color: primary
 description: As our new project is planning on an RSA analysis, I'm also learning about it now.
 ---
 
