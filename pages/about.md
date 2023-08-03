@@ -13,7 +13,7 @@ I'm interested in studying **psychology** and **language** using neuroimaging me
 
 In my leisure time I enjoy cooking, hiking, swimming and K-pop.
 
-If you'd like to know more about me, feel free to see my [CV](https://github.com/alexxyye/alexxyye.github.io/blob/main/docs/CV221014.pdf) here.
+If you'd like to know more about me, feel free to see my [CV](https://github.com/alexxyye/alexxyye.github.io/docs/CV230803.pdf) here.
 
 
 ## Education
