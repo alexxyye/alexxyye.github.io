@@ -58,10 +58,10 @@
   {%- assign post_url = post.url | relative_url -%}
 {%- endif -%}
 
-<div style="display: grid; place-items: center;">
-  <div class="row my-3 wow animated fadeIn" data-wow-delay=".15s">
+<div style="display: flex; justify-content: center;">
+  <div class="row my-3 wow animated fadeIn" data-wow-delay=".15s" style="display: flex; justify-content: space-between; width: 80%;">
     <div class="col-lg-6">
-      <h4><a href="{{ post_url }}" {%- if post.external_url and site.open_new_tab -%} target="_blank" {%- endif -%}>{{ post.title }}</a></h3>
+      <h4><a href="{{ post_url }}" {%- if post.external_url and site.open_new_tab -%} target="_blank" {%- endif -%}>{{ post.title }}</a></h4>
       <p>
         {%- if post.description -%}
         {{ post.description }}
@@ -70,7 +70,7 @@
         {%- endif -%}
       </p>
     </div>
-    <div class="col-lg-4">
+    <div class="col-lg-4" style="text-align: right;">
       <p>
         {{ post.date | date_to_long_string }}
       </p>
