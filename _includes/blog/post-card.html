@@ -58,7 +58,7 @@
   {%- assign post_url = post.url | relative_url -%}
 {%- endif -%}
 
-<div style="margin-left: auto; margin-right: auto; width: 50%;">
+<div style="display: grid; place-items: center;">
   <div class="row my-3 wow animated fadeIn" data-wow-delay=".15s">
     <div class="col-lg-6">
       <h4><a href="{{ post_url }}" {%- if post.external_url and site.open_new_tab -%} target="_blank" {%- endif -%}>{{ post.title }}</a></h3>
