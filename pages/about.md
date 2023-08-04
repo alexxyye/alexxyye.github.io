@@ -55,7 +55,7 @@ Description: I acquired proficiency in constructing computational models of biol
 ##### **Research Assistant**, Chinese and Bilingual Studies, The Hong Kong Polytechnic University
 2021.01-2021.08\
 PI: Dr. Caicai Zhang\
-Description: In the project "[The neural encoding of productive phonological alternation in speech production: Evidence from Mandarin Tone 3 sandhi](https://www.sciencedirect.com/science/article/pii/S0911604422000045)," I took the initiative to engage in experiments 2 and 3. I applied event-related experimental paradigms in conducting EEG experiments, and utilized BESA for data preprocessing. I also incorporated the FieldTrip toolbox to perform cluster-based permutation tests. Although the results were not significant and only experiment 1 was published (which I did not participate in), I found the experience invaluable in honing my skills in data collection and analysis.
+Description: In the project [The neural encoding of productive phonological alternation in speech production: Evidence from Mandarin Tone 3 sandhi](https://www.sciencedirect.com/science/article/pii/S0911604422000045), I took the initiative to engage in experiments 2 and 3. I applied event-related experimental paradigms in conducting EEG experiments, and utilized BESA for data preprocessing. I also incorporated the FieldTrip toolbox to perform cluster-based permutation tests. Although the results were not significant and only experiment 1 was published (which I did not participate in), I found the experience invaluable in honing my skills in data collection and analysis.
 <br>
 
 ##### **Research Assistant**, Linguistics, The Chinese University of Hong Kong
