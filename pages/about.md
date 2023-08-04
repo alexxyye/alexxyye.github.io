@@ -9,11 +9,11 @@ weight: 1
 
 Hi I am **{{ site.author.name }}**. Currently, I'm a **Research Associate** working at *BLC lab* in Hong Kong PolyU and you can visit [my page](https://blclab.org/xinyi-ye/). 
 
-I'm interested in studying **psychology** and **language** using neuroimaging methods such as EEG and fMRI. My major focus of study is language perception and comprehension (listening and reading especially). Still, I'm also interested in visual and auditory processing in general. I also like to use computational models to analyze data.
+I am deeply fascinated by the intersection of **Psychology**, **Neuroscience**, and **Linguistics**. My primary research focus is on leveraging neuroscience methodologies to explore the brain's language processing mechanisms. This encompasses language learning in natural settings, as well as social and spatial information processing. I also employ computational models to analyze multimodal data gathered from natural or quasi-natural environments, aiming to emulate real-life language processing in the brain.
 
 In my leisure time I enjoy cooking, hiking, swimming and K-pop.
 
-If you'd like to know more about me, feel free to see my [CV](https://github.com/alexxyye/alexxyye.github.io/docs/CV230803.pdf) here.
+If you'd like to know more about me, feel free to see my [CV](https://alexxyye.github.io/docs/CV230803.pdf) here.
 
 
 ## Education
@@ -32,31 +32,35 @@ Supervisor: Dr. Nancy Yumei Song
 ## Experience
 
 ##### **Research Associate**, BLC Lab, The Hong Kong Polytechnic University
-2023-present
-supervisor: Dr. Andrew Ping Li
-description: 
+2023-present\
+PI: Dr. Andrew Ping Li\
+Description: In my current role, I actively engage in a variety of responsibilities:
+
+- I lead an individual project, focusing on the use of multimodal data analytics in naturalistic language learning.
+- I collaborate with my colleagues on a project aimed at exploring the processing of abstract concepts during social interaction.
+- I proactively manage the lab and its projects using the Trello workspace. As the administrator, I monitor project progress, foster a supportive environment by sharing valuable resources such as tutorials and lectures, and facilitate a Q & A platform for all lab members.
 <br>
 
 ##### **Research Assistant**, BLC Lab, The Hong Kong Polytechnic University
-2022-2023
-supervisor: Dr. Andrew Ping Li
-description: I analyzed how the brain learn new words in Virtual Reality using a combination of EEG and VR equipments. I use EEGLAB and FieldTrip pipeline for the majority of the analyses and designed the VR settings with my colleagues. Along with traditional EEG signal analyses we also involve deep learning models to further analyze our data.
+2022-2023\
+PI: Dr. Andrew Ping Li\
+Description: I investigated the brain's acquisition of new words in Virtual Reality (VR) through EEG and VR equipment. The majority of my analyses are performed using the EEGLAB and FieldTrip pipeline, with VR settings collaboratively designed with my team. In addition to traditional EEG signal analyses, we incorporated computational models for more comprehensive data interpretation.
 <br>
 
 ##### NeuroMatch Academy - **Computational Neuroscience Summer Course**
-2022.07-2022.08
-description: I learned how to build cmputational models of biological structures in our brain with machine learning and deep learning. Along with methods to analyze fMRI data using Python. For details please see "NMA project" in the "project" in my personal website.
+2022.07-2022.08\
+Description: I acquired proficiency in constructing computational models of biological brain structures using machine learning and deep learning techniques. Additionally, I gained expertise in analyzing fMRI data using Python. For more information, please refer to the [NMA project](https://github.com/SocialDragonsNeuromatch/NeuromatchProject) under the [Projects](https://alexxyye.github.io/projects/) section on my personal website.
 <br>
 
 ##### **Research Assistant**, Chinese and Bilingual Studies, The Hong Kong Polytechnic University
-2021.01-2021.08
-Supervisor: Dr. Caicai Zhang
-Description: EEG data collection and analysis.
+2021.01-2021.08\
+PI: Dr. Caicai Zhang\
+Description: In the project "[The neural encoding of productive phonological alternation in speech production: Evidence from Mandarin Tone 3 sandhi](https://www.sciencedirect.com/science/article/pii/S0911604422000045)," I took the initiative to engage in experiments 2 and 3. I applied event-related experimental paradigms in conducting EEG experiments, and utilized BESA for data preprocessing. I also incorporated the FieldTrip toolbox to perform cluster-based permutation tests. Although the results were not significant and only experiment 1 was published (which I did not participate in), I found the experience invaluable in honing my skills in data collection and analysis.
 <br>
 
 ##### **Research Assistant**, Linguistics, The Chinese University of Hong Kong
-2020.09-2021.01
-Supervisor: Dr. Shuxiang You
+2020.09-2021.01\
+PI: Dr. Shuxiang You\
 Description: Literature review and information collection.
 <br>
 
