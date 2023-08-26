@@ -36,7 +36,8 @@ Supervisor: Dr. Nancy Yumei Song
 PI: Dr. Andrew Ping Li\
 Description: In my current role, I actively engage in a variety of responsibilities:
 
-- I lead an individual project, focusing on the use of multimodal data analytics in naturalistic language learning.
+- I lead a project combining Virtural Reality (VR) and EEG, where we use this neuroimaging method to investigate the temperal dynamics of language learning process in the immersion of a virtual world.
+- I work on a project focusing on the use of multimodal data analytics in naturalistic language learning.
 - I collaborate with my colleagues on a project aimed at exploring the processing of abstract concepts during social interaction.
 - I proactively manage the lab and its projects using the Trello workspace. As the administrator, I monitor project progress, foster a supportive environment by sharing valuable resources such as tutorials and lectures, and facilitate a Q & A platform for all lab members.
 <br>
