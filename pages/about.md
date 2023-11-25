@@ -13,8 +13,6 @@ I am deeply fascinated by the intersection of **Psychology**, **Neuroscience**, 
 
 In my leisure time I enjoy cooking, hiking, swimming and K-pop.
 
-If you'd like to know more about me, feel free to see my [CV](https://alexxyye.github.io/docs/CV230803.pdf) here.
-
 
 ## Education
 
