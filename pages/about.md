@@ -7,14 +7,17 @@ weight: 1
 
 ## About Me
 
-Hi I am **{{ site.author.name }}**. Currently, I'm a **Research Associate** working at *BLC lab* in Hong Kong PolyU and you can visit [my page](https://blclab.org/xinyi-ye/). 
+Hi I am **{{ site.author.name }}**. Currently, I'm a **PhD student** working at *NatCogLab* in Brain and Cognitive Sciences at University of Rochester.
 
-I am deeply fascinated by the intersection of **Psychology**, **Neuroscience**, and **Linguistics**. My primary research focus is on leveraging neuroscience methodologies to explore the brain's language processing mechanisms. This encompasses language learning in natural settings, as well as social and spatial information processing. I also employ computational models to analyze multimodal data gathered from natural or quasi-natural environments, aiming to emulate real-life language processing in the brain.
+I am deeply fascinated by the intersection of **Psychology**, **Neuroscience**, **Vision Science** and **Linguistics**. My primary research focus is on leveraging neuroscience methodologies to explore the brain's language processing mechanisms. This encompasses language learning in quasi-natural settings (e.g. Virtual Reality), as well as social and spatial information processing. I also employ computational models to analyze multimodal data gathered from natural or quasi-natural environments, aiming to emulate real-life language processing in the brain. Now I'm moving towards more general perception. I study how people perceive and sengment events in daily life.
 
 In my leisure time I enjoy cooking, hiking, swimming and K-pop.
 
 
 ## Education
+##### 2024-Now **University of Rochester, PhD, Brain and Cognitive Sciences**
+Supervisor: Dr. Coraline Rinn Iordan
+<br>
 
 ##### 2021-2022   **Chinese University of Hong Kong, MA, Psychology.** 
 Thesis: “A Meta-Analysis on the N1 Print Tuning Effect in Early and Late N1 Time Window”\
@@ -32,7 +35,7 @@ Supervisor: Dr. Nancy Yumei Song
 ##### **Research Associate**, BLC Lab, The Hong Kong Polytechnic University
 2023-present\
 PI: Dr. Andrew Ping Li\
-Description: In my current role, I actively engage in a variety of responsibilities:
+Description: In my role, I actively engage in a variety of responsibilities:
 
 - I lead a project combining Virtural Reality (VR) and EEG, where we use this neuroimaging method to investigate the temperal dynamics of language learning process in the immersion of a virtual world.
 - I work on a project focusing on the use of multimodal data analytics in naturalistic language learning.
